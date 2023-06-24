@@ -6,8 +6,9 @@
 	border-left-color:green;
 	border-style:solid;
 	border-left-width:5px;
-	padding : 10px;
+}
+#heading{
 	font-size:20px;
+	padding : 10px;
 	color:white;
-	
 }
